@@ -11,5 +11,9 @@ This Python script allows users to print numbers from 0 in the multiples of the 
 4. If the user decides to continue, the program increments the counter and continues counting.
 5. If the user chooses to quit, the program terminates.
 
+## Purpose:
+
+This script is useful for scenarios where users need to generate sequences of numbers in multiples of a specific value. It provides a simple and interactive way for users to generate such sequences, allowing them to specify the starting value and the interval between consecutive numbers.
+
 ## Credits
 This project was inspired by the book "Creative Coding in Python" (Chapter 3, Page 80).
